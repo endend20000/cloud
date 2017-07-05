@@ -8,8 +8,8 @@ spring:
       server:
         label: master
         git:
-          uri: https://github.com/endend20000/springCloudConfig.git
-          searchPaths: /
+          uri: https://github.com/endend20000/cloud.git
+          searchPaths: cloud/resources/
           username: endend20000
           password: homeend724
 eureka:
